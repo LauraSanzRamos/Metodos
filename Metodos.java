@@ -27,7 +27,7 @@ public int getAnyo(){
 public void setAnyo (int anyo){
 	this.anyo=anyo;
 }
-public boolean esMayor(){
+public boolean esMayorDeEdad(){
 	return (anyo<=2004);
 }
 public String toString (){
